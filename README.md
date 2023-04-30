@@ -1,7 +1,7 @@
 # Quiz-app
 My simple quiz app for my android development classes!
 
-If you select something it will stay selected, change the color. 
+If you select something it will stay selected, changing the color. 
 
 ## Images! 
 <img src="./images/quiz-1.jpg" width=30% height=30%>
